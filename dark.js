@@ -39,8 +39,8 @@ menubtn.addEventListener("click",function(){
 //toggleButtonDesktop
 togbtn.addEventListener("click",function(){
     togbtn.classList.toggle("flex-row-reverse");
-    moon.classList.toggle("text-yellow-300");
-    sun.classList.toggle("text-yellow-300")
+    moon.classList.toggle("text-yellow-400");
+    sun.classList.toggle("text-yellow-400")
 });
 //toggleButtonDesktop
 togbtn2.addEventListener("click",function(){
