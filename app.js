@@ -1,6 +1,3 @@
-const menubtn = document.querySelector("#menubtn");
-const menu = document.querySelector("#menu");
-const line1 = document.querySelector("#line-1");
 const line2 = document.querySelector("#line-2");
 const line3 = document.querySelector("#line-3");
 const togbtn = document.querySelector("#togbtn");
